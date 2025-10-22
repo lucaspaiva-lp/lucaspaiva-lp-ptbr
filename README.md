@@ -8,13 +8,6 @@
 
 ---
 
-## 📫 Contato
-
-- LinkedIn: [https://www.linkedin.com/in/lucaspaiva-lp/](#)
-- Email: lucaspaiva-lp@proton.me
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 📚 Sistema Acadêmico (Exemplo)
@@ -30,4 +23,12 @@
 - [Link para o repositório](#)
 
 ### 📝 Exemplo de Queries SQL
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [https://www.linkedin.com/in/lucaspaiva-lp/](#)
+- Email: lucaspaiva-lp@proton.me
+
 
