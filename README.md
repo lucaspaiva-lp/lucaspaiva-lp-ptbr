@@ -23,12 +23,12 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🛍️ E-commerce Frontend
-- Interface web com home, listagem de produtos, carrinho de compras e painel administrativo básico.
-- Estrutura SPA modular (Single Page Application) em HTML, CSS e JavaScript.
-- Suporte a visualização individual de produtos e simulação de fluxo de compra.
-- Integração com backend e pagamentos planejada para fases futuras.
-- [Clique aqui para ver o projeto](https://github.com/lucaspaiva-lp/ecommerce-frontend)
+🛍️ E-commerce Frontend
+- Web interface with home page, product listing, shopping cart, and basic admin dashboard.
+- Modular SPA (Single Page Application) architecture using HTML, CSS, and JavaScript.
+- Supports individual product view and simulated purchase flow.
+- Backend and payment integration planned for future development.
+- [Click here to view the project](https://github.com/lucaspaiva-lp/ecommerce-frontend)
 
 ### 💻 Dashboard de Consultas SQL
 - Projeto com consultas **complexas e agregações** em PostgreSQL.
