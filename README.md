@@ -22,11 +22,12 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🚀 Projetos em Destaque
+### 🛍️ E-commerce Modular SPA
 - Interface web com home, listagem de produtos, carrinho de compras e painel administrativo básico.
 - Estrutura SPA modular (Single Page Application) em HTML, CSS e JavaScript.
 - Suporte a visualização individual de produtos e simulação de fluxo de compra.
 - Integração com backend e pagamentos planejada para fases futuras.
-- [Clique aqui para ver o projeto](https://github.com/lucaspaiva-lp/ecommerce-frontend)
+- [Clique aqui para ver o projeto](https://github.com/lucaspaiva-lp/ecommerce-spa)
 
 ### 💻 Dashboard de Consultas SQL
 - Projeto com consultas **complexas e agregações** em PostgreSQL.
