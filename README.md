@@ -1,7 +1,6 @@
 [![PT-BR](https://img.shields.io/badge/lang-PT--BR-green?style=for-the-badge&logo=google-translate)](https://github.com/lucaspaiva-lp/lucaspaiva-lp)
 [![EN](https://img.shields.io/badge/lang-EN-blue?style=for-the-badge&logo=google-translate)](https://github.com/lucaspaiva-lp/lucaspaiva-lp-en)
 
-
 ## 🛠 Tecnologias e Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,19 +21,22 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🚀 Projetos em Destaque
+
 ### 🛍️ E-commerce Modular SPA
+
 - Interface web com home, listagem de produtos, carrinho de compras e painel administrativo básico.
 - Estrutura SPA modular (Single Page Application) em HTML, CSS e JavaScript.
 - Suporte a visualização individual de produtos e simulação de fluxo de compra.
 - Integração com backend e pagamentos planejada para fases futuras.
-- [Clique aqui para ver o projeto](https://github.com/lucaspaiva-lp/ecommerce-spa)
+- **[Clique aqui para ver o projeto](https://github.com/lucaspaiva-lp/ecommerce-spa)**
 
-### 💻 Dashboard de Consultas SQL
-- Projeto com consultas **complexas e agregações** em PostgreSQL.
-- Demonstra habilidades de **modelagem de dados e filtragem avançada**.
-- Stack: PostgreSQL, pgAdmin4
-- [Clique aqui para ver o projeto](#)
+### 💻 RPG Textual — Console RPG Game
 
+- Projeto com um **RPG totalmente jogável baseado em turnos**.
+- Inclui **criação de personagem, missões, inventário, sistema de combate e recompensas**.
+- Desenvolvido com **arquitetura limpa, estrutura modular e encapsulamento de dados**.
+- Stack: Python, JSON (sistema de salvamento), CLI.
+- **[Clique aqui para visualizar o projeto](https://github.com/lucaspaiva-lp/rpg-textual)**
 
 ## 📫 Contato
 
@@ -45,4 +47,3 @@
 [![Linktree](https://img.shields.io/badge/Linktree-30C03B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/lucaspaiva_lp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspaiva-lp@proton.me)
 [![CV](https://img.shields.io/badge/CV-6e5494?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/4978921915627567)
-
